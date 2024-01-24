@@ -1,0 +1,257 @@
+
+body
+{
+    background-color:red
+    background-origin: padding-box;
+
+}
+.meanbar{
+    background-color: cyan;
+    height: 7%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-radius:12px;
+    }
+.enline
+{
+font-family: 'Lucida Sans';
+font-style: "bold";
+font-weight: 800;
+font-style: inherit;
+padding-left: 6%;
+padding-right: 6%;
+padding-top: 7px;
+text-align: center;
+}
+.login
+{
+    padding : 5px 20px;
+    border: 2px solid;
+    border-color: darkcyan;
+    font-style: italic;
+}
+.meanbaritems
+{
+    padding-top: 8px;
+    font-style: italic;
+}
+.text1
+{
+    font-size: larger; 
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 1.5%;
+    font-weight: 800;
+    font-size: 200%;
+    color: black;
+}
+.getstart
+{
+    background-color: skyblue;
+    padding : 10px 10px;
+    width: 10rem;
+    border: 2px solid;
+    border-color: darkcyan;
+    text-align: center;
+    color: white;
+}
+.text2
+{ 
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 1.5%;
+    font-weight: 500;
+    font-size: 22px;
+    color: black;
+
+}
+.page2{
+    padding-top: 150;
+    padding-bottom: 300;
+    float: left;
+    height: 300px;
+    width: 50%;
+}
+.page2a{
+    padding-top: 150;
+    padding-bottom: 300;
+    float: right;
+    height: 300px;
+    width: 50%;
+;
+}
+.logos
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.ho:hover
+{
+    color: blue;
+}
+.underlogos
+{
+    padding-bottom: 20px;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 100%;
+    font-weight: 600;
+}
+.page2main
+{
+    height: 800px;
+}
+
+.page3
+{
+    height: 110px;
+    
+}
+.page3a
+{
+ display: grid;
+ grid-template-columns: repeat(3,1fr);
+gap: 30px;  
+padding-left:200PX  ;
+padding-top: 100px;
+height: 800;
+}
+.box    
+{
+   font-family: "fantasy";
+    border-radius: 50px;
+    height: 16rem;
+	width: 16rem;
+    padding: 10px 2px;
+}
+.page4
+{
+    height: 100;
+}
+.page4a
+{
+    height: 100px;
+}
+.navbar
+{
+    padding-bottom: 20px;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+    padding-left: 160px;
+    padding-right: 160px;
+    font-size: 100%;
+    font-weight: 600;
+
+}
+.page5
+{ 
+    padding-top: 0px;
+    height: 500px;
+}
+.page5a{
+
+    padding-top: 100;
+    padding-bottom: 300;
+    float: left;
+    height: 200px;
+    width: 50%;
+}
+.page5b{
+    padding-top: 100;
+    padding-bottom: 300;
+    float: right;
+    height: 200px;
+    width: 50%;
+    
+;
+}
+.getstart2
+{
+    background-color: skyblue;
+    padding : 10px 10px;
+    margin-left: 100px;
+    width: 10rem;
+    border: 2px solid;
+    border-color: darkcyan;
+    text-align: center;
+    color: white;
+}
+.page6
+{
+    padding-top: 0px;
+    height: 500px;  
+}
+.page6a
+{
+    padding-top: 100;
+    padding-bottom: 300;
+    float: left;
+    height: 200px;
+    width: 30%;
+}
+.page6b
+{
+    padding-top: 100;
+    padding-bottom: 300;
+    float: right;
+    height: 200px;
+    width: 50%;
+}
+.navitem
+{
+    font-size: 30px;
+    background-color: transparent;
+    border: 40px 40px solid black;
+    padding: 2rem;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.footer
+{
+    height: 350;
+    color: aliceblue;
+    background-color: black;
+}
+.page8
+{
+    float :left 30%;
+    background-color: aquamarine;
+
+}
+.page8a
+{
+    float: right 70%;
+    background-color: red;
+}
+.under
+{
+    padding-bottom: 20px;
+    padding-top: 5px;
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+   gap: 50px;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-size: 100%;
+    font-weight: 600;
+}
+.imgaa{
+    padding-right:30px ;
+}
